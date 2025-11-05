@@ -1,0 +1,26 @@
+{
+  "Naive Bayes": {
+    "train_accuracy": 0.9840700022436617,
+    "test_accuracy": 0.9704035874439462,
+    "cv_score": 0.9728498235972077,
+    "cv_std": 0.007223384266277529
+  },
+  "Logistic Regression": {
+    "train_accuracy": 0.9719542293022212,
+    "test_accuracy": 0.9668161434977578,
+    "cv_score": 0.9551247401770571,
+    "cv_std": 0.006318779865194153
+  },
+  "SVM": {
+    "train_accuracy": 0.9910253533767108,
+    "test_accuracy": 0.9856502242152466,
+    "cv_score": 0.9804794330952775,
+    "cv_std": 0.0031458579271785025
+  },
+  "Random Forest": {
+    "train_accuracy": 0.9997756338344178,
+    "test_accuracy": 0.9748878923766816,
+    "cv_score": 0.9768897243486183,
+    "cv_std": 0.002087399762007939
+  }
+}

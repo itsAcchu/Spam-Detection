@@ -1,0 +1,7 @@
+{
+  "total_emails": 5572,
+  "ham_count": 4825,
+  "spam_count": 747,
+  "ham_percentage": 86.59,
+  "spam_percentage": 13.41
+}
